@@ -16,7 +16,7 @@ Summary:    ParkingTimer
 Version:    0.3
 Release:    0
 Group:      Qt/Qt
-License:    MIT
+License:    GPLv3
 Source0:    %{name}-%{version}.tar.bz2
 Source100:  harbour-parkingtimer.yaml
 Requires:   sailfishsilica-qt5 >= 0.10.9
